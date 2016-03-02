@@ -156,14 +156,14 @@ PORTFOLIO CLASSES
 /*-------------------------------------------------
 FOOTER CLASSES
 -------------------------------------------------*/
-.footer-wrapper{ background:#313c53; margin-top:40px;}
+.footer-wrapper{ background:#313c53; margin-top:40px; height: 70px}
 .footer{ width:970px;margin:0 auto;} 
-.footer .panel{border-right:#38445a solid 1px;float:left; width:290px; padding-left:30px; padding-top:60px;padding-bottom:60px; background:none;} 
+.footer .panel{float:left; width:290px; padding-left:30px; background:none; padding-left: 380px}
 .footer .panel.title{background:none;}
 .footer h1{ font-size:22px;font-weight:normal;}
 .footer h3{ font-size:22px;font-weight:normal; color:#fff;}
 .footer .panel.title h2{ font-size:16px; color:#9cff00; padding-top:15px;}
-.footer .panel .content{padding-top:30px;}
+.footer .panel .content{padding-top:13px;}
 .footer .panel .content p{ color:#54657b;line-height:22px; padding-bottom:0px;}
 .footer .panel .content p a{ color:#54657b;text-decoration:none;}
 .footer .panel .content p a:hover{ color:#ffffff;}

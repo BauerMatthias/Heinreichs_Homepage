@@ -1,0 +1,51 @@
+html{
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(#FFFFFF, cornflowerblue) fixed;
+    overflow: hidden;
+}
+
+main {
+    margin-top: 10%;
+}
+
+main div.jugendgaestehaus {
+    width: 50%;
+    float: left;
+}
+
+main div.feuerwehr {
+    width: 50%;
+    float: right;
+}
+
+main.content img.logoJghaus{
+    float: right;
+    border-style: double;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    opacity: 0.4;
+    width: 333px;
+    height: 359px;
+}
+
+main.content img.logoJghaus:hover {
+    opacity: 1;
+}
+
+main.content img.logoFeuerwehr{
+    float: left;
+    border-style: double;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    opacity: 0.4;
+    width: 333px;
+    height: 359px;
+}
+
+main.content img.logoFeuerwehr:hover {
+    opacity: 1;
+}
